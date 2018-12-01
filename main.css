@@ -1,0 +1,87 @@
+* {
+	margin:0;
+	padding:0;
+}
+body {
+	
+}
+.center {
+	border:1px solid red;
+	width:900px;
+	margin:0 auto;
+}
+.top_line {
+	height:40px;
+	border:1px solid red;
+	
+	background:#000;
+	color:#fff;
+}
+.menu {
+	height:144px;
+	border:1px solid red;
+}
+.title {
+	height:45px;
+	border:1px solid red;
+}
+.lessons {
+	border:1px solid red;
+	width:500px;
+	display:inline-block;
+	height:500px;
+	vertical-align:top;
+}
+aside {
+	border:1px solid red;
+	width:280px;
+	display:inline-block;
+	vertical-align:top;
+}
+.posa {
+	width:300px;
+	height:300px;
+	border:1px solid red;
+}
+
+}
+ins {
+	width:50px;
+	height:50px;
+	border:1px solid green;
+	display:inline-block;
+	position:absolute;
+	left:249px;
+	
+}
+span {
+	width:50px;
+	height:50px;
+	border:1px solid black;
+	display:inline-block;
+	position:relative;
+	top:248px;
+	
+}
+i {
+	width:50px;
+	height:50px;
+	border:1px solid yellow;
+	display:inline-block;
+	position:relative;
+	left:300px;
+	top:243px;
+}
+
+div {
+	height:50px;
+	width:100px;
+	border:1px solid #000;
+	margin-bottom:10px;
+	display:inline-block;
+}
+.block {
+	position:absolute;
+	bottom:100px;
+	left:100px;
+}
